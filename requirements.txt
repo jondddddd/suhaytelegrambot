@@ -1,0 +1,3 @@
+Pip install open
+Pip install python
+Pip install flask
